@@ -16,3 +16,5 @@
 
 - **[HEAT: Heterogeneous End-to-End Autonomous Driving via Trajectory-Guided World Models](https://arxiv.org/abs/2605.19631)** — added to *Navigation World models & VLA*. Organises end-to-end driving training around planning trajectories and incorporates a world model predicting future latent features, achieving substantial improvements on nuScenes, NAVSIM, and Waymo benchmarks.
 
+- **[SpanVLA: Efficient Action Bridging and Learning from Negative-Recovery Samples for Vision-Language-Action Model](https://arxiv.org/abs/2604.19710)** — added to *Navigation World models & VLA*. Combines an autoregressive VLM reasoning backbone with a flow-matching action expert for low-latency autonomous driving, and introduces GRPO-based post-training on the new mReasoning dataset (complex reasoning + negative-recovery scenarios); achieves competitive results on NAVSIM v1 and v2.
+
